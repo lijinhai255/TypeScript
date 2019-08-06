@@ -37,3 +37,5 @@ console.log(HuSky.food)
 
 //类的成员修饰符
 // class 
+
+//chou
