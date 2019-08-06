@@ -19,4 +19,4 @@ let foo:Foo = {
     bar:1
 }
  
-foo.bar= 1
+foo.bar= 1 
